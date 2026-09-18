@@ -1,0 +1,42 @@
+function wm(file: string) {
+  return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file)}?width=320`;
+}
+
+/** 시드용 병 사진. 실제 수집이 성공하면 면세점 이미지로 교체됩니다. */
+export const SEED_IMAGES: Record<string, string> = {
+  "jw-blue-750": wm("Johnnie Walker Blue Label.jpg"),
+  "jw-black-1000": wm("Johnnie Walker Black Label.jpg"),
+  "jw-gold-750": wm("Johnnie Walker Gold Label Reserve.jpg"),
+  "balvenie-12-700": wm("The Balvenie DoubleWood 12.jpg"),
+  "glenfiddich-12-700": wm("Glenfiddich 12 Year Old.jpg"),
+  "glenfiddich-15-700": wm("Glenfiddich 15 Year Old.jpg"),
+  "glenfiddich-18-700": wm("Glenfiddich 18 Year Old.jpg"),
+  "glenlivet-12-700": wm("The Glenlivet 12 Year Old.jpg"),
+  "glenmorangie-original-1000": wm("Glenmorangie Original.jpg"),
+  "macallan-12-700": wm("The Macallan 12 Years Old.jpg"),
+  "macallan-18-700": wm("The Macallan 18 Year Old.jpg"),
+  "kavalan-classic-700": wm("Kavalan whisky.jpg"),
+  "suntory-chita-700": wm("The Chita whisky.jpg"),
+  "hibiki-harmony-700": wm("Hibiki Harmony.jpg"),
+  "yamazaki-12-700": wm("Yamazaki 12 Years.jpg"),
+  "hakushu-12-700": wm("Hakushu 12 Year Old.jpg"),
+  "nikka-from-barrel-500": wm("Nikka From The Barrel.jpg"),
+  "yoichi-700": wm("Yoichi Single Malt.jpg"),
+  "jack-old-no7-1000": wm("Jack Daniel's Old No.7.jpg"),
+  "makers-mark-750": wm("Maker's Mark bottle.jpg"),
+  "woodford-reserve-700": wm("Woodford Reserve.jpg"),
+  "wild-turkey-101-700": wm("Wild Turkey 101.jpg"),
+  "jameson-700": wm("Jameson Irish Whiskey.jpg"),
+  "bushmills-10-700": wm("Bushmills 10 Year Old.jpg"),
+  "redbreast-12-700": wm("Redbreast 12.jpg"),
+  "royal-salute-21-700": wm("Royal Salute 21 Year Old.jpg"),
+  "chivas-18-700": wm("Chivas Regal 18.jpg"),
+  "ballantine-21-700": wm("Ballantine's 21 Year Old.jpg"),
+  "talisker-10-700": wm("Talisker 10 Year Old.jpg"),
+  "lagavulin-16-700": wm("Lagavulin 16 Year Old.jpg"),
+  "bowmore-12-700": wm("Bowmore 12 Year Old.jpg"),
+  "oban-14-700": wm("Oban 14 Year Old.jpg"),
+  "ardbeg-10-700": wm("Ardbeg Ten.jpg"),
+  "laphroaig-10-700": wm("Laphroaig 10 Year Old.jpg"),
+  "highland-park-12-700": wm("Highland Park 12 Year Old.jpg"),
+};

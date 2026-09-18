@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.log
+.sessions
+data/live-prices.json
+data/scrape-log.txt

@@ -1,0 +1,950 @@
+{
+  "savedAt": "2026-09-18T05:39:08.793Z",
+  "products": [
+    {
+      "id": "jw-blue-750",
+      "brand": "조니워커",
+      "name": "블루 라벨",
+      "volumeMl": 750,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/03/66/08/01/00/02/20001086603_5.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 157.99,
+            "originalUsd": 227
+          },
+          "loggedIn": {
+            "priceUsd": 175,
+            "originalUsd": 280
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/03/66/08/01/00/02/20001086603_5.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://www.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 158.93,
+            "originalUsd": 227
+          },
+          "loggedIn": {
+            "priceUsd": 185,
+            "originalUsd": 280
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product3/2026/06/04/046331000002_20260604_09370658_11_046331000002_14.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 158.92,
+            "originalUsd": 227
+          },
+          "loggedIn": {
+            "priceUsd": 178,
+            "originalUsd": 280
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/531/250107000715531.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "jw-black-1000",
+      "brand": "조니워커",
+      "name": "블랙 라벨",
+      "volumeMl": 1000,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/92/13/26/01/00/02/20001261392_2.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 31.87,
+            "originalUsd": 48
+          },
+          "loggedIn": {
+            "priceUsd": 29,
+            "originalUsd": 48
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/92/13/26/01/00/02/20001261392_2.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://www.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 31.01,
+            "originalUsd": 48
+          },
+          "loggedIn": {
+            "priceUsd": 31,
+            "originalUsd": 48
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2026/04/06/046331000006_20260406_14505298_11_046331000006_3.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/initDispCtg?searchType=CATEGORY&disp_ctg_no=2306012486&startCount=200&listCount=40&sort=CUSTOM_SCORE%2FDESC%2CRANK%2FDESC%2CDATE%2FDESC",
+          "adultOnly": {
+            "priceUsd": 37.05,
+            "originalUsd": 57
+          },
+          "loggedIn": {
+            "priceUsd": 30,
+            "originalUsd": 48
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/395/250327000791395.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "jw-gold-750",
+      "brand": "조니워커",
+      "name": "골드 라벨",
+      "volumeMl": 750,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/03/66/08/01/00/02/20001086603_5.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 157.99,
+            "originalUsd": 227
+          },
+          "loggedIn": {
+            "priceUsd": 44,
+            "originalUsd": 72
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/03/66/08/01/00/02/20001086603_5.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 46,
+            "originalUsd": 72
+          },
+          "loggedIn": {
+            "priceUsd": 46,
+            "originalUsd": 72
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 158.92,
+            "originalUsd": 227
+          },
+          "loggedIn": {
+            "priceUsd": 45,
+            "originalUsd": 72
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/531/250107000715531.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "balvenie-12-700",
+      "brand": "발베니",
+      "name": "12년 더블우드",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Balvenie%20DoubleWood%2012.jpg?width=320",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 44.16,
+            "originalUsd": 80
+          },
+          "loggedIn": {
+            "priceUsd": 82,
+            "originalUsd": 120
+          },
+          "imageUrl": null
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 85,
+            "originalUsd": 120
+          },
+          "loggedIn": {
+            "priceUsd": 85,
+            "originalUsd": 120
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 88,
+            "originalUsd": 120
+          },
+          "loggedIn": {
+            "priceUsd": 84,
+            "originalUsd": 120
+          }
+        }
+      }
+    },
+    {
+      "id": "balvenie-14-700",
+      "brand": "발베니",
+      "name": "14년 캐리비안 캐스크",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/82/85/27/01/00/02/20001278582_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 44.16,
+            "originalUsd": 80
+          },
+          "loggedIn": {
+            "priceUsd": 91,
+            "originalUsd": 135
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/82/85/27/01/00/02/20001278582_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EB%B0%9C%EB%B2%A0%EB%8B%88",
+          "adultOnly": {
+            "priceUsd": 90.21,
+            "originalUsd": 164
+          },
+          "loggedIn": {
+            "priceUsd": 96,
+            "originalUsd": 135
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2023/04/05/112231000025_20230405_14260411_11_112231000025_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 80,
+            "originalUsd": 80
+          },
+          "loggedIn": {
+            "priceUsd": 92,
+            "originalUsd": 135
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/457/241220000708457.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "balvenie-15-700",
+      "brand": "발베니",
+      "name": "15년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/82/85/27/01/00/02/20001278582_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 44.16,
+            "originalUsd": 80
+          },
+          "loggedIn": {
+            "priceUsd": 109,
+            "originalUsd": 160
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/82/85/27/01/00/02/20001278582_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EB%B0%9C%EB%B2%A0%EB%8B%88",
+          "adultOnly": {
+            "priceUsd": 90.21,
+            "originalUsd": 164
+          },
+          "loggedIn": {
+            "priceUsd": 112,
+            "originalUsd": 160
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2023/04/05/112231000025_20230405_14260411_11_112231000025_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 80,
+            "originalUsd": 80
+          },
+          "loggedIn": {
+            "priceUsd": 108,
+            "originalUsd": 160
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/457/241220000708457.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenfiddich-12-700",
+      "brand": "글렌피딕",
+      "name": "12년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 79.17,
+            "originalUsd": 145
+          },
+          "loggedIn": {
+            "priceUsd": 35,
+            "originalUsd": 55
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%ED%94%BC%EB%94%95",
+          "adultOnly": {
+            "priceUsd": 194.15,
+            "originalUsd": 353
+          },
+          "loggedIn": {
+            "priceUsd": 37,
+            "originalUsd": 55
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2025/12/09/082331000064_20251209_11023434_11_082331000064_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 195.46,
+            "originalUsd": 310
+          },
+          "loggedIn": {
+            "priceUsd": 36,
+            "originalUsd": 55
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/452/241220000708452.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenfiddich-15-700",
+      "brand": "글렌피딕",
+      "name": "15년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 79.17,
+            "originalUsd": 145
+          },
+          "loggedIn": {
+            "priceUsd": 54,
+            "originalUsd": 82
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%ED%94%BC%EB%94%95",
+          "adultOnly": {
+            "priceUsd": 194.15,
+            "originalUsd": 353
+          },
+          "loggedIn": {
+            "priceUsd": 56,
+            "originalUsd": 82
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2025/12/09/082331000064_20251209_11023434_11_082331000064_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 195.46,
+            "originalUsd": 310
+          },
+          "loggedIn": {
+            "priceUsd": 55,
+            "originalUsd": 82
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/452/241220000708452.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenfiddich-18-700",
+      "brand": "글렌피딕",
+      "name": "18년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 79.17,
+            "originalUsd": 145
+          },
+          "loggedIn": {
+            "priceUsd": 80.18,
+            "originalUsd": 148
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%ED%94%BC%EB%94%95",
+          "adultOnly": {
+            "priceUsd": 194.15,
+            "originalUsd": 353
+          },
+          "loggedIn": {
+            "priceUsd": 76,
+            "originalUsd": 148
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2025/12/09/082331000064_20251209_11023434_11_082331000064_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 195.46,
+            "originalUsd": 310
+          },
+          "loggedIn": {
+            "priceUsd": 79,
+            "originalUsd": 148
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/452/241220000708452.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenfiddich-21-700",
+      "brand": "글렌피딕",
+      "name": "21년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 79.17,
+            "originalUsd": 145
+          },
+          "loggedIn": {
+            "priceUsd": 136,
+            "originalUsd": 264
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/21/61/08/01/00/02/20001086121_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%ED%94%BC%EB%94%95",
+          "adultOnly": {
+            "priceUsd": 194.15,
+            "originalUsd": 353
+          },
+          "loggedIn": {
+            "priceUsd": 145,
+            "originalUsd": 264
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2025/12/09/082331000064_20251209_11023434_11_082331000064_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 195.46,
+            "originalUsd": 310
+          },
+          "loggedIn": {
+            "priceUsd": 139,
+            "originalUsd": 264
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/452/241220000708452.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenlivet-12-700",
+      "brand": "글렌리벳",
+      "name": "12년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/27/24/37/01/00/02/20001372427_1.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 91,
+            "originalUsd": 130
+          },
+          "loggedIn": {
+            "priceUsd": 39,
+            "originalUsd": 62
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/27/24/37/01/00/02/20001372427_1.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%EB%A6%AC%EB%B2%B3",
+          "adultOnly": {
+            "priceUsd": 183.16,
+            "originalUsd": 241
+          },
+          "loggedIn": {
+            "priceUsd": 41,
+            "originalUsd": 62
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product3/2026/06/10/288631000017_20260610_10021487_11_288631000017_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/initDispCtg?searchType=CATEGORY&disp_ctg_no=2306012486&startCount=120&listCount=40&sort=CUSTOM_SCORE%2FDESC%2CRANK%2FDESC%2CDATE%2FDESC",
+          "adultOnly": {
+            "priceUsd": 97.51,
+            "originalUsd": 130
+          },
+          "loggedIn": {
+            "priceUsd": 40,
+            "originalUsd": 62
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/122/251030000972122.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenlivet-18-700",
+      "brand": "글렌리벳",
+      "name": "18년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/27/24/37/01/00/02/20001372427_1.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 91,
+            "originalUsd": 130
+          },
+          "loggedIn": {
+            "priceUsd": 81,
+            "originalUsd": 130
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/27/24/37/01/00/02/20001372427_1.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%EB%A6%AC%EB%B2%B3",
+          "adultOnly": {
+            "priceUsd": 183.16,
+            "originalUsd": 241
+          },
+          "loggedIn": {
+            "priceUsd": 85,
+            "originalUsd": 130
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product3/2026/06/10/288631000017_20260610_10021487_11_288631000017_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/initDispCtg?searchType=CATEGORY&disp_ctg_no=2306012486&startCount=120&listCount=40&sort=CUSTOM_SCORE%2FDESC%2CRANK%2FDESC%2CDATE%2FDESC",
+          "adultOnly": {
+            "priceUsd": 97.51,
+            "originalUsd": 130
+          },
+          "loggedIn": {
+            "priceUsd": 82,
+            "originalUsd": 130
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/122/251030000972122.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenmorangie-original-1000",
+      "brand": "글렌모렌지",
+      "name": "오리지널",
+      "volumeMl": 1000,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/96/07/20/01/00/02/20001200796_1.png/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 39,
+            "originalUsd": 60
+          },
+          "loggedIn": {
+            "priceUsd": 36,
+            "originalUsd": 52
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/96/07/20/01/00/02/20001200796_1.png/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EA%B8%80%EB%A0%8C%EB%AA%A8%EB%A0%8C%EC%A7%80",
+          "adultOnly": {
+            "priceUsd": 60,
+            "originalUsd": 60
+          },
+          "loggedIn": {
+            "priceUsd": 36,
+            "originalUsd": 52
+          },
+          "imageUrl": "https://image1.shilladfs.com/files/product2/2025/06/30/108631000001_20250630_16453815_11_108631000001_12.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/initDispCtg?searchType=CATEGORY&disp_ctg_no=2306012486&startCount=160&listCount=40&sort=CUSTOM_SCORE%2FDESC%2CRANK%2FDESC%2CDATE%2FDESC",
+          "adultOnly": {
+            "priceUsd": 60,
+            "originalUsd": 60
+          },
+          "loggedIn": {
+            "priceUsd": 35.5,
+            "originalUsd": 52
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/811/240429000511811.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "glenmorangie-lasanta-700",
+      "brand": "글렌모렌지",
+      "name": "라산타 12년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": null,
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 168.3,
+            "originalUsd": 198
+          },
+          "loggedIn": {
+            "priceUsd": 48,
+            "originalUsd": 74
+          },
+          "imageUrl": null
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 50,
+            "originalUsd": 74
+          },
+          "loggedIn": {
+            "priceUsd": 50,
+            "originalUsd": 74
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 53,
+            "originalUsd": 74
+          },
+          "loggedIn": {
+            "priceUsd": 49,
+            "originalUsd": 74
+          }
+        }
+      }
+    },
+    {
+      "id": "macallan-12-700",
+      "brand": "맥캘란",
+      "name": "12년 더블캐스크",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Macallan%2012%20Years%20Old.jpg?width=320",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 83,
+            "originalUsd": 83
+          },
+          "loggedIn": {
+            "priceUsd": 91,
+            "originalUsd": 140
+          },
+          "imageUrl": null
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 95,
+            "originalUsd": 140
+          },
+          "loggedIn": {
+            "priceUsd": 95,
+            "originalUsd": 140
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 99,
+            "originalUsd": 140
+          },
+          "loggedIn": {
+            "priceUsd": 92,
+            "originalUsd": 140
+          }
+        }
+      }
+    },
+    {
+      "id": "macallan-15-700",
+      "brand": "맥캘란",
+      "name": "15년 더블캐스크",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": null,
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 83,
+            "originalUsd": 83
+          },
+          "loggedIn": {
+            "priceUsd": 155,
+            "originalUsd": 230
+          },
+          "imageUrl": null
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 162,
+            "originalUsd": 230
+          },
+          "loggedIn": {
+            "priceUsd": 162,
+            "originalUsd": 230
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 170,
+            "originalUsd": 230
+          },
+          "loggedIn": {
+            "priceUsd": 158,
+            "originalUsd": 230
+          }
+        }
+      }
+    },
+    {
+      "id": "macallan-18-700",
+      "brand": "맥캘란",
+      "name": "18년",
+      "volumeMl": 700,
+      "category": "scotch",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/88/45/27/01/00/02/20001274588_5.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 83,
+            "originalUsd": 83
+          },
+          "loggedIn": {
+            "priceUsd": 255,
+            "originalUsd": 390
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/88/45/27/01/00/02/20001274588_5.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EB%A7%A5%EC%BA%98%EB%9E%80",
+          "adultOnly": {
+            "priceUsd": 78.85,
+            "originalUsd": 83
+          },
+          "loggedIn": {
+            "priceUsd": 262,
+            "originalUsd": 390
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2024/07/05/081831000056_20240705_13504995_11_081831000056_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/initDispCtg?searchType=CATEGORY&disp_ctg_no=2306012486&startCount=360&listCount=40&sort=CUSTOM_SCORE%2FDESC%2CRANK%2FDESC%2CDATE%2FDESC",
+          "adultOnly": {
+            "priceUsd": 8227.81,
+            "originalUsd": 11754
+          },
+          "loggedIn": {
+            "priceUsd": 248,
+            "originalUsd": 390
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/325/240503000515325.jpg?RS=440"
+        }
+      }
+    },
+    {
+      "id": "kavalan-12-700",
+      "brand": "카발란",
+      "name": "12년 더블캐스크",
+      "volumeMl": 700,
+      "category": "other",
+      "updatedAt": "2026-03-18",
+      "isSamplePrice": true,
+      "imageUrl": null,
+      "listings": {
+        "lotte": {
+          "url": "https://m.kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 72,
+            "originalUsd": 110
+          },
+          "loggedIn": {
+            "priceUsd": 68,
+            "originalUsd": 110
+          }
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": null,
+            "originalUsd": 110
+          },
+          "loggedIn": {
+            "priceUsd": 70,
+            "originalUsd": 110
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 74,
+            "originalUsd": 110
+          },
+          "loggedIn": {
+            "priceUsd": 69,
+            "originalUsd": 110
+          }
+        }
+      }
+    },
+    {
+      "id": "kavalan-classic-700",
+      "brand": "카발란",
+      "name": "클래식",
+      "volumeMl": 700,
+      "category": "other",
+      "updatedAt": "2026-03-18",
+      "isSamplePrice": true,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kavalan%20whisky.jpg?width=320",
+      "listings": {
+        "lotte": {
+          "url": "https://m.kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 48,
+            "originalUsd": 72
+          },
+          "loggedIn": {
+            "priceUsd": 45,
+            "originalUsd": 72
+          }
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/c/1211",
+          "adultOnly": {
+            "priceUsd": 47,
+            "originalUsd": 72
+          },
+          "loggedIn": {
+            "priceUsd": 47,
+            "originalUsd": 72
+          }
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 49,
+            "originalUsd": 72
+          },
+          "loggedIn": {
+            "priceUsd": 46,
+            "originalUsd": 72
+          }
+        }
+      }
+    },
+    {
+      "id": "kavalan-vino-1000",
+      "brand": "카발란",
+      "name": "비노 바리끄 솔리스트",
+      "volumeMl": 1000,
+      "category": "other",
+      "updatedAt": "2026-09-18",
+      "isSamplePrice": false,
+      "imageUrl": "https://static.lottedfs.com/prod/prd-img/32/04/09/01/00/02/20001090432_4.jpg/dims/resize/400x400",
+      "listings": {
+        "lotte": {
+          "url": "https://kor.lottedfs.com/kr/display/category/second?dispShopNo1=10055924&dispShopNo2=10055930&treDpth=2",
+          "adultOnly": {
+            "priceUsd": 230,
+            "originalUsd": 230
+          },
+          "loggedIn": {
+            "priceUsd": 138,
+            "originalUsd": 230
+          },
+          "imageUrl": "https://static.lottedfs.com/prod/prd-img/32/04/09/01/00/02/20001090432_4.jpg/dims/resize/400x400"
+        },
+        "shilla": {
+          "url": "https://m.shilladfs.com/estore/kr/ko/search?text=%EC%B9%B4%EB%B0%9C%EB%9E%80",
+          "adultOnly": {
+            "priceUsd": 149.52,
+            "originalUsd": 230
+          },
+          "loggedIn": {
+            "priceUsd": 132,
+            "originalUsd": 230
+          },
+          "imageUrl": "https://image2.shilladfs.com/files/product2/2023/03/23/249031000005_20230323_09435388_11_249031000005_1.JPG"
+        },
+        "shinsegae": {
+          "url": "https://www.ssgdfs.com/kr/dispctg/ctg/liquor/whisky",
+          "adultOnly": {
+            "priceUsd": 149.52,
+            "originalUsd": 230
+          },
+          "loggedIn": {
+            "priceUsd": 135,
+            "originalUsd": 230
+          },
+          "imageUrl": "https://img.ssgdfs.com/upload/C00001/goos/org/612/241023000654612.jpg?RS=440"
+        }
+      }
+    }
+  ]
+}
