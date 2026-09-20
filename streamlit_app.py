@@ -17,7 +17,7 @@ st.set_page_config(
 
 inject_css()
 
-st.sidebar.markdown("**DUTY FREE SPIRITS**")
+st.sidebar.markdown("**DUTY FREE SPIRITS --**")
 st.sidebar.caption("면세점 주류 비교")
 
 
